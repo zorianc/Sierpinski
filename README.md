@@ -1,1 +1,1 @@
-# Sierpinski
+# Sierpinski Triangle
